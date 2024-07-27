@@ -1,0 +1,14 @@
+br\unipar\veterinaria\models\Proprietario.class
+br\unipar\veterinaria\models\Telefone.class
+br\unipar\veterinaria\models\enums\Especialidade.class
+br\unipar\veterinaria\models\RacaAnimal.class
+br\unipar\veterinaria\models\Especie.class
+br\unipar\veterinaria\models\Medicamento.class
+br\unipar\veterinaria\models\Consulta.class
+br\unipar\veterinaria\models\Vacina.class
+br\unipar\veterinaria\Veterinaria.class
+br\unipar\veterinaria\models\Endereco.class
+br\unipar\veterinaria\models\Exame.class
+br\unipar\veterinaria\models\TosaBanho.class
+br\unipar\veterinaria\models\Animal.class
+br\unipar\veterinaria\models\Veterinario.class
